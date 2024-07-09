@@ -6,12 +6,12 @@ Clone of the Connections game from the New York Times, written using Next.js.
 
 For those interested in running the app locally, first clone the repository:
 ```bash
-git clone https://github.com/srefsland/nyt-connections-clone.git
+git clone https://github.com/randomicecube/pt-connections.git
 ```
 
 Install dependencies:
 ```bash
-cd nyt-connections-clone
+cd pt-connections
 npm install
 ```
 
