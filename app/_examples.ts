@@ -3,7 +3,7 @@ import { Category } from "./_types";
 export const categories: Category[] = [
   {
     category: 'MÚSICAS SAMPLADAS POR ARTISTAS AMERICANOS',
-    items: ["AMOR TOTAL", "A SOMBRA (FADO NOCTURNO)", "TOUCH ME", "TODO O MUNDO É NINGUÉM"],
+    items: ["AMOR TOTAL", "A SOMBRA (FADO NOCTURNO)", "TOUCH ME", "TODO O MUNDO E NINGUÉM"],
     level: 1,
   },
   {
