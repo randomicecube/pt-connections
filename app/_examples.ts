@@ -12,7 +12,7 @@ export const categories: Category[] = [
     level: 2,
   },
   {
-    category: "MÚSICAS COM NOMES DE SUPER HEROIS (OU ALTER-EGOS)",
+    category: "MÚSICAS COM NOMES DE SUPER HEROIS (OU VILOES)",
     items: ["BRUCE WAYNE", "BANE", "IRON MAN", "BLACK WIDOW"],
     level: 3,
   },
