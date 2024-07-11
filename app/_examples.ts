@@ -2,23 +2,23 @@ import { Category } from "./_types";
 
 export const categories: Category[] = [
   {
-    category: 'MÚSICAS SAMPLADAS POR ARTISTAS AMERICANOS',
-    items: ["AMOR TOTAL", "A SOMBRA (FADO NOCTURNO)", "TOUCH ME", "TODO O MUNDO E NINGUÉM"],
+    category: "ALBUNS LANÇADOS A 9 DE MAIO",
+    items: ["STADIUM ARCADIUM", "THE NEW AMERICA", "EYES OPEN", "ELECTRONIC SOUND"],
     level: 1,
   },
   {
-    category: "DEBUT ALBUMS - MEMBROS GROGNATION",
-    items: ["DEEPAK LOOPER", "INDIANA JONES", "ADRENALINA", "MALVERDE"],
+    category: "MÚSICAS QUE (HOPEFULLY) VAO PASSAR NO PAREDES",
+    items: ["FOGO", "NASNUSA", "VARIAS QUEIXAS", "FAVOURITE"],
     level: 2,
   },
   {
-    category: "ÁLBUNS/EP'S COM UMA MÚSICA CHAMADA \"INTERLÚDIO\"",
-    items: ["#FFFFFF", "INACABADO", "REFLEXO", "OITAVO CÉU"],
+    category: "MÚSICAS COM NOMES DE SUPER HEROIS (OU ALTER-EGOS)",
+    items: ["BRUCE WAYNE", "BANE", "IRON MAN", "BLACK WIDOW"],
     level: 3,
   },
   {
-    category: "MÚSICAS SEGUNDO LUGAR FESTIVAL DA CANÇÃO (1970-1973)",
-    items: ["CANÇÃO DE MADRUGAR", "FLOR SEM TEMPO", "VAMOS CANTAR DE PÉ", "É POR ISSO QUE EU VIVO"],
+    category: "MÚSICAS QUE TAMBEM SAO NOMES DE FILMES",
+    items: ["FANDANGO", "MARVIN'S ROOM", "TARZAN", "FALLEN LEAVES"],
     level: 4,
   },
 ];
